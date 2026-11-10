@@ -2,7 +2,10 @@
 
 Backend · Infrastructure · Security
 
-동국대학교 컴퓨터·AI학부 재학
+<p>
+  <a href="https://www.dongguk.edu"><img src="assets/dongguk-mark.svg" width="28" height="28" align="absmiddle" alt="Dongguk University"></a>
+  &nbsp;<strong>Dongguk Univ.</strong> &nbsp;·&nbsp; Computer Science / AI
+</p>
 
 <img src="https://skillicons.dev/icons?i=python,java,ts,react,docker,kubernetes&amp;theme=dark" height="34" alt="Python, Java, TypeScript, React, Docker, Kubernetes">
 
