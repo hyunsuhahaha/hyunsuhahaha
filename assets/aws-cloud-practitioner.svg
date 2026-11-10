@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254" height="44" viewBox="0 0 254 44" role="img" aria-labelledby="title desc">
+  <title id="title">AWS Certified Cloud Practitioner</title>
+  <desc id="desc">AWS Certified Cloud Practitioner certification held by Hyunsu Lee.</desc>
+  <rect x=".5" y="3.5" width="253" height="37" rx="7" fill="#0d1117" stroke="#30363d"/>
+  <path d="M17 28h10a5 5 0 0 0 .6-10 7 7 0 0 0-13.1 1.6A4.3 4.3 0 0 0 17 28Z" fill="none" stroke="#f4a15b" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="40" y="26.5" fill="#e6edf3" font-family="Segoe UI, sans-serif" font-size="12.5" font-weight="600">AWS</text>
+  <path d="M81 13v18" stroke="#30363d"/>
+  <text x="94" y="26" fill="#b1bac4" font-family="Segoe UI, sans-serif" font-size="11.5">Cloud Practitioner</text>
+  <rect x="205" y="12" width="37" height="20" rx="4" fill="#30251e"/>
+  <text x="223.5" y="25.8" text-anchor="middle" fill="#f4a15b" font-family="Consolas, Liberation Mono, monospace" font-size="10.5" font-weight="600">CCP</text>
+</svg>

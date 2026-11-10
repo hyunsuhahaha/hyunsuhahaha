@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="44" viewBox="0 0 188 44" role="img" aria-labelledby="title desc">
+  <title id="title">SQLD · SQL Developer</title>
+  <desc id="desc">SQL Developer certification held by Hyunsu Lee.</desc>
+  <rect x=".5" y="3.5" width="187" height="37" rx="7" fill="#0d1117" stroke="#30363d"/>
+  <g fill="none" stroke="#79c0ff" stroke-width="1.4">
+    <ellipse cx="21" cy="16" rx="8" ry="3"/>
+    <path d="M13 16v12c0 1.7 3.6 3 8 3s8-1.3 8-3V16M13 22c0 1.7 3.6 3 8 3s8-1.3 8-3"/>
+  </g>
+  <text x="40" y="26.5" fill="#e6edf3" font-family="Segoe UI, sans-serif" font-size="12.5" font-weight="600">SQLD</text>
+  <path d="M86 13v18" stroke="#30363d"/>
+  <text x="99" y="26" fill="#b1bac4" font-family="Segoe UI, sans-serif" font-size="11.5">SQL Developer</text>
+</svg>
