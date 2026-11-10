@@ -2,13 +2,9 @@
 
 Backend · Infrastructure · Security
 
+동국대학교 컴퓨터·AI학부 재학
+
 <img src="https://skillicons.dev/icons?i=python,java,ts,react,docker,kubernetes&amp;theme=dark" height="34" alt="Python, Java, TypeScript, React, Docker, Kubernetes">
-
-### Selected work
-
-- [ShadowTrace](https://github.com/hyunsuhahaha/ShadowTrace) — eBPF-based pentest activity tracking.
-- [Gitea Auto Reviewer](https://github.com/hyunsuhahaha/gitea-auto-reviewer) — AI code review with reproduction and verification.
-- [Factory Scheduling Agent](https://github.com/hyunsuhahaha/factory-scheduling-agent) — LLM agents and constraint-based production scheduling.
 
 ### Problem solving
 
