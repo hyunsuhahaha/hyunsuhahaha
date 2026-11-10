@@ -5,6 +5,7 @@
 
 <p>
   <a href="https://www.testdome.com/certificates/d7ab0ff5c32a4790a2e629f712d21dd4"><img src="assets/testdome-kubernetes.svg" width="338" alt="Kubernetes · TestDome 공개 테스트 상위 10% — 인증서 보기"></a>
+  <a href="https://www.testdome.com/certificates/55877dd99e464348bd4021fe88b059d0"><img src="assets/testdome-devops.svg" width="338" alt="DevOps · TestDome 공개 테스트 상위 25% — 인증서 보기"></a>
   <img src="assets/aws-cloud-practitioner.svg" width="254" alt="AWS Certified Cloud Practitioner">
   <img src="assets/sqld.svg" width="188" alt="SQLD · SQL Developer">
 </p>
