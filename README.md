@@ -3,6 +3,10 @@
   <img src="assets/profile-header.svg" width="100%" alt="Hyunsu Lee — Backend, Infrastructure, Security. Dongguk Univ. · Computer Science / AI">
 </picture>
 
+<p>
+  <a href="https://www.testdome.com/certificates/d7ab0ff5c32a4790a2e629f712d21dd4"><img src="assets/testdome-kubernetes.svg" width="338" alt="Kubernetes · TestDome 공개 테스트 상위 10% — 인증서 보기"></a>
+</p>
+
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,react,docker,kubernetes&amp;theme=dark" height="34" alt="Python, Java, TypeScript, React, Docker, Kubernetes">
